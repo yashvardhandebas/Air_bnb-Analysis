@@ -1,0 +1,5 @@
+# Exclude specific CSV file as requested
+airbnb_cleaned.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
